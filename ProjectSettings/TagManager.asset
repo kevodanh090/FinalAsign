@@ -12,6 +12,7 @@ TagManager:
   - New tag
   - Key
   - Book
+  - Treasure
   layers:
   - Default
   - TransparentFX
